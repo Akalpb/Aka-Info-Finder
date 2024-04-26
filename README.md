@@ -2,7 +2,7 @@
   <h3> Aka <a href="https://guns.lol/akalpb">All Tools discord </a> 😎 </h3>
   
 [![Download Python](https://skillicons.dev/icons?i=python)](https://www.python.org/ftp/python/3.12.3/python-3.12.3-amd64.exe)
-Clique juste sur le logo ( si tu as la flm )
+Clique juste sur le logo ( si tu as la flm de chercher les version )
 
   <br>
   
